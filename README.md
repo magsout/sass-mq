@@ -49,6 +49,7 @@ as illustrated in this article posted on the Guardian's developer blog:
     // If you want to display the currently active breakpoint in the top
     // right corner of your site during development, add the breakpoints
     // to this list, ordered by width, e.g. (mobile, tablet, desktop).
+    // See https://github.com/guardian/sass-mq/tree/sassdoc#seeing-the-currently-active-breakpoint
     $mq-show-breakpoints: (mobile, mobileLandscape, tablet, desktop, wide);
 
     @import 'path/to/mq';
