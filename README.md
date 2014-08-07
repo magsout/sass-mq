@@ -37,7 +37,6 @@ as illustrated in this article posted on the Guardian's developer blog:
         wide:    1300px,
 
         // Tweakpoints
-        desktopAd: 810px,
         mobileLandscape: 480px
     );
 
